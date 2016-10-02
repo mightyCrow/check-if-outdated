@@ -1,0 +1,40 @@
+{
+  "name": "check-if-outdated",
+  "version": "0.1.0",
+  "description": "Simple module to checks if your module or any of its dependencies are outdated",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava",
+    "lint": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyCrow/check-if-outdated.git"
+  },
+  "keywords": [
+    "version",
+    "check",
+    "outdated"
+  ],
+  "author": "Tiaan du Plessis @mightyCrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mightyCrow/check-if-outdated/issues"
+  },
+  "homepage": "https://github.com/mightyCrow/check-if-outdated#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "dependencies": {
+    "latest-version": "^2.0.0",
+    "semver": "^5.3.0"
+  },
+  "xo": {
+    "esnext": true,
+    "fix": true,
+    "rules": {
+      "import/newline-after-import": "off"
+    }
+  }
+}
