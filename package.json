@@ -1,6 +1,6 @@
 {
   "name": "check-if-outdated",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple module to checks if your module or any of its dependencies are outdated",
   "main": "index.js",
   "scripts": {
