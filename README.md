@@ -64,6 +64,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/check-if-outdated.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save check-if-outdated
 # OR
