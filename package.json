@@ -43,7 +43,7 @@
     "pkg-up": "^2.0.0"
   },
   "devDependencies": {
-    "husky": "^0.14.3",
+    "husky": "^1.0.0",
     "jest": "^22.0.0",
     "standard": "^11.0.0"
   }
